@@ -3,3 +3,7 @@
 
 ### BFS Q4.b 2019(b)
 <img src="./bfs Q4, 2019 b - b.png" alt="img description" />
+
+### BFS Q1, 2020 a - c
+<img src="./bfs Q1, 2020 a - c.png" alt="img description" />
+
