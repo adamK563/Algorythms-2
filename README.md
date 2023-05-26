@@ -6,7 +6,7 @@ A problem a day keeps the professor away
 
 <img src="./hagdara bfs.png" alt="img description" />
 
-<img src="./hagdara dfs" alt="img description" />
+<img src="./hagdara dfs.png" alt="img description" />
 
 
 ## BFS
